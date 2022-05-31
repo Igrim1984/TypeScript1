@@ -1,0 +1,19 @@
+.categories {
+    list-style: none;
+}
+
+
+.gym {
+    color: green;
+    font-weight: bolder;
+
+}
+
+.hobby {
+    color: blue;
+
+}
+
+.work {
+    font-weight: bolder;
+}
